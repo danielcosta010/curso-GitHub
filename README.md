@@ -7,7 +7,7 @@
 2. CSS5
 3. JavaScript
 
-   Este projeto foi utilizado para aprendizado de git e github no curso  Git e GitHub: compartilhando e colaborando em projetos da Alura.
+Este projeto foi utilizado para aprendizado de git e github no curso  Git e GitHub: compartilhando e colaborando em projetos da Alura.
 
   
-![BonkioFilipGIF (2)](https://github.com/danielcosta010/curso-GitHub/assets/105571748/c0811358-7afc-4b06-b2e6-12a0b01efc75)
+![logo do github](https://github.com/danielcosta010/curso-GitHub/blob/main/img/logo__github.png)
